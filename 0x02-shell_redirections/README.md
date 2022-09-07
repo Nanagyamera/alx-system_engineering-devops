@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files
+Write a script that prints “Hello, World”, followed by a new line to the standard output
