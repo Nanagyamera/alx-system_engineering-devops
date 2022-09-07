@@ -1,1 +1,1 @@
-Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+Create a script that creates an alias
