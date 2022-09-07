@@ -1,1 +1,1 @@
-Create a script that creates an alias
+Write a script that prints the result of the addition
