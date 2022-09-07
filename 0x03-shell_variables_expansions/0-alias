@@ -1,2 +1,2 @@
 #!/bin/bash
- LS="rm *" 
+ ls="rm *" 
