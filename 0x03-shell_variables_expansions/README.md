@@ -1,1 +1,1 @@
-Write a script that prints the result of the addition
+Create a script that counts the number
