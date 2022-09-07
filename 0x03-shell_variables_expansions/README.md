@@ -1,1 +1,1 @@
-Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
+Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
