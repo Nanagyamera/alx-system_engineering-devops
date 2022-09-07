@@ -1,1 +1,1 @@
-Write a script that prints
+Write a script that deletes all the regular files (not the directories)
