@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo "Servername localhost" >> /etc/apache2.conf
+sudo service apache2 start
